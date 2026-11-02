@@ -83,4 +83,5 @@
 <a href="https://github.com/deekshitha114">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+  Thanks for visiting my profile!
 </p>
